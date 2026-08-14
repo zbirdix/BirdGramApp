@@ -8,22 +8,22 @@ This is the **official public download repository** for the BirdGram Android app
 
 ### [Download BirdGram for Android → Latest GitHub Release](https://github.com/zbirdix/BirdGramApp/releases/latest)
 
-The first public production APK is still being tested and has not been released yet. No QA, debug, emulator, or development builds are published here.
+Current controlled-beta version: **0.9.0-rc.4-hotfix.1**
 
-When a production release is available, its release page will show:
-
-- the BirdGram version and Android version code;
-- the release-signed APK named `BirdGram-<version>-release.apk`;
-- the APK SHA-256 checksum;
-- short release notes and installation guidance.
+- APK: `BirdGram-0.9.0-rc.4-hotfix.1-release.apk`
+- Android versionCode: `2058`
+- Architecture: ARM64 (`arm64-v8a`)
+- Minimum Android version: Android 7.0
+- SHA-256: `55c2ba06af818bd6b33abc0891ecf840ac0b20d03d70a8a709ef92a65ba5428a`
+- Signing: BirdGram release certificate; not debug-signed
 
 ## Install on Android
 
 1. Open the latest GitHub Release using the link above.
-2. Under **Assets**, download `BirdGram-<version>-release.apk`.
+2. Under **Assets**, download `BirdGram-0.9.0-rc.4-hotfix.1-release.apk`.
 3. Open the downloaded APK on your Android device.
-4. If Android asks for permission, allow your browser or file manager to install this app for this installation.
-5. Confirm the installation, then open BirdGram.
+4. If Android asks for permission, allow your browser or file manager to install this app.
+5. Confirm installation, then open BirdGram.
 
 Android may display a warning because the APK is installed directly rather than through Google Play. Only continue when the download address begins with:
 
@@ -31,14 +31,12 @@ Android may display a warning because the APK is installed directly rather than 
 
 ## Verify the download
 
-Each production release includes its exact SHA-256 checksum. Compare that checksum with the downloaded APK before installing when possible.
+The official APK is built in release mode and signed with BirdGram's stable Android release certificate. Never install a BirdGram APK labeled debug, QA, emulator, preview, or development.
 
-The official APK is built in **release mode** and signed with BirdGram's stable Android release certificate. Never install a BirdGram APK labeled debug, QA, emulator, preview, or development.
+To verify this release, calculate the downloaded file's SHA-256 checksum and compare it with the value above.
 
 ## Official source
 
 Download BirdGram only from this official repository and its GitHub Releases:
 
 <https://github.com/zbirdix/BirdGramApp>
-
-No production APK is currently approved for public distribution. This README will be updated with the current production version and checksum when the owner authorizes the first public release.
