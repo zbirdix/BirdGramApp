@@ -6,17 +6,17 @@ This is the **official public download repository** for the BirdGram Android app
 
 ## Download BirdGram for Android
 
-### [⬇ Download BirdGram APK directly](https://github.com/zbirdix/BirdGramApp/releases/download/v0.9.0-rc.4-hotfix.1/BirdGram-0.9.0-rc.4-hotfix.1-release.apk)
+### [⬇ Download BirdGram APK directly](https://github.com/zbirdix/BirdGramApp/releases/download/v0.9.0-rc.5/BirdGram-0.9.0-rc.5-release.apk)
 
 If the direct download does not start, open the [Latest GitHub Release](https://github.com/zbirdix/BirdGramApp/releases/latest), expand **Assets**, and select the APK.
 
-Current controlled-beta version: **0.9.0-rc.4-hotfix.1**
+Current controlled-beta version: **0.9.0-rc.5**
 
-- APK: `BirdGram-0.9.0-rc.4-hotfix.1-release.apk`
-- Android versionCode: `2058`
-- Architecture: ARM64 (`arm64-v8a`)
+- APK: `BirdGram-0.9.0-rc.5-release.apk`
+- Android versionCode: `2060`
+- Architectures: `arm64-v8a`, `armeabi-v7a`, `x86_64`
 - Minimum Android version: Android 7.0
-- SHA-256: `55c2ba06af818bd6b33abc0891ecf840ac0b20d03d70a8a709ef92a65ba5428a`
+- SHA-256: `f45a22816609362edbfa4a1e173514b6d8968bb5562c1b608d728ba2e7350c1f`
 - Signing: BirdGram release certificate; not debug-signed
 
 ## Install on Android
