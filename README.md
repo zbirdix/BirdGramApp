@@ -6,20 +6,20 @@ This is the **official public download repository** for the BirdGram Android app
 
 ## Download BirdGram for Android
 
-### [⬇ Download BirdGram APK directly](https://github.com/zbirdix/BirdGramApp/releases/download/v0.9.0-rc.6/BirdGram-Android-arm64.apk)
+### [⬇ Download BirdGram APK directly](https://github.com/zbirdix/BirdGramApp/releases/download/v0.9.0-rc.7/BirdGram-Android-arm64.apk)
 
 If the direct download does not start, open the [Latest GitHub Release](https://github.com/zbirdix/BirdGramApp/releases/latest), expand **Assets**, and select the APK.
 
-Current controlled-beta version: **0.9.0-rc.6**
+Current controlled-beta version: **0.9.0-rc.7**
 
 - APK: `BirdGram-Android-arm64.apk`
-- Android versionCode: `4083`
+- Android versionCode: `4084`
 - Architecture: `arm64-v8a`
 - Minimum Android version: Android 7.0
-- SHA-256: `de1621b110cb5f8e4ef84699813615c8201309df783b13a0bf49631c4b36ad9d`
+- SHA-256: `920b09bed293950acef81b10f3993f02bbca95868f13bb6307ffd6e7e96b90d5`
 - Signing: BirdGram release certificate; not debug-signed
 
-[Download the SHA-256 checksum file](https://github.com/zbirdix/BirdGramApp/releases/download/v0.9.0-rc.6/BirdGram-Android-arm64.apk.sha256).
+[Download the SHA-256 checksum file](https://github.com/zbirdix/BirdGramApp/releases/download/v0.9.0-rc.7/BirdGram-Android-arm64.apk.sha256).
 
 ## Install on Android
 
